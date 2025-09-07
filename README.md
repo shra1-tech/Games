@@ -2,7 +2,6 @@
 
 This Python script (`math_puzzle.py`) is an interactive math-based puzzle game I created to challenge players' problem-solving skills. The game generates a sequence of mathematical puzzles based on a randomly selected formula, displays four solved examples, and asks the player to solve the fifth puzzle within a 30-second time limit. Points are awarded for correct answers, and difficulty increases every 10 points, advancing to a new level.
 
-⚠️ **Note**: This game is designed for educational and entertainment purposes. Ensure you have Python installed to run it.
 
 ## Features
 - Generates random math puzzles using operations like `n*n+n`, `n**3`, or `n**2+n**2`.
